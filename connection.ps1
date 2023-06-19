@@ -1,0 +1,1 @@
+Invoke-Command -FilePath "C:\inetpub\wwwroot\test.ps1" -ComputerName ADSERVER01
